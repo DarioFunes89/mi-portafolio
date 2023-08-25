@@ -86,7 +86,7 @@ export default function AboutMe() {
             ))}
 
             <h1 className="bg-red-500 text-3xl rounded-md px-2 py-1 inline-block font-bold text-gray-50">
-              Tech Stack
+              Habilidades técnicas
             </h1>
             <div className="flex flex-row flex-wrap mt-8">
               <img
@@ -94,11 +94,11 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
+                src="https://camo.githubusercontent.com/518977ed5e52020624daf41cf644046368af610f19a7b1220dd1d58377d08288/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+                src="https://camo.githubusercontent.com/3b7cd4f410391d1f43e0b4545192c5a403432194cd256be40bf25e74519248f2/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6578746a732e706e67"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
@@ -110,11 +110,11 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
+                src="https://camo.githubusercontent.com/3523bd4e344ec5909336e3891b7511da62905e8953381f6fa69c11983e8fd9f6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f626f6f7473747261702d706c61696e2e737667"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"
+                src="https://camo.githubusercontent.com/48c9507b62d83559dc3aef4f3951293b15ab2f5fa1029bdf6ec42f9fa062e775/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
@@ -122,21 +122,34 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+                src="https://camo.githubusercontent.com/93acca6a99de2894799bf5e78396c83a682e46a4b1d98aa3127ae7b25c3754b6/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f657870726573732d6f726967696e616c2d776f72646d61726b2e737667"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
+                src="https://camo.githubusercontent.com/86407466428babbb148803dc69dc4d11cacc4f73bbb7b04a5cfa1274084521bb/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7374726170692e737667"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
+                src="https://camo.githubusercontent.com/ddc853c2f9e0dc4538d5f3500880e557ab03f9ea8050b5152d0ef61d042f7d01/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f706f737467726573716c2d6f726967696e616c2d776f72646d61726b2e737667"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
+                src="https://camo.githubusercontent.com/da33ce63f1e78ececdc5f65879560a5e8d3ac805670af8934eea5d1b0cd9a5b7/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f616d617a6f6e77656273657276696365732d6f726967696e616c2d776f72646d61726b2e737667"
                 className="h-20 w-20 mx-4 my-4"
               />
+              <img
+                src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/600px-Wordpress_Blue_logo.png"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              <img
+                src="https://raw.githubusercontent.com/ngx-semantic/ngx-semantic-docs/master/src/assets/images/logo.png"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              <img
+                src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              
             </div>
           </div>
         </div>
