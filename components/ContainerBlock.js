@@ -9,7 +9,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
 
   const meta = {
     title: "Darío Andrés Funes - Fullstack Developer",
-    description: `My portfolio`,
+    description: `Mi portafolio`,
     image: "/henry-ta.jpg",
     type: "website",
     ...customMeta,

@@ -8,7 +8,7 @@ export default function Home({ repositories }) {
   return (
     <ContainerBlock
       title="Darío Andrés Funes - Fullstack Developer"
-      description="My portfolio"
+      description="Mi portafolio"
     >
       <Hero />
       <FavouriteProjects />
