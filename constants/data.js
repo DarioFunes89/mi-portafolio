@@ -37,7 +37,7 @@ const userData = {
     },
     {
       title: "Diego Almirón - Web personal en progreso - WordPress",
-      link: "https://diegoalmiron.com.ar",
+      link: "https://diegoalmiron.com.ar/",
       imgUrl: "diegoalmiron.png",
       id: 4
     },
