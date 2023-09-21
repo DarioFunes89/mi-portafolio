@@ -37,13 +37,13 @@ const userData = {
     },
     {
       title: "Diego Almirón - Web personal en progreso - WordPress",
-      link: "https://diego-almiron.com",
+      link: "https://diegoalmiron.com.ar",
       imgUrl: "diegoalmiron.png",
       id: 4
     },
     {
       title: "Refrigeración Moroni - Web profesional para técnico refrigerante en progreso - WordPress",
-      link: "https://pokemon-pi-sigma.vercel.app/",
+      link: "",
       imgUrl: "moroni.png",
       id: 5
     }
