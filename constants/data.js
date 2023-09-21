@@ -36,7 +36,7 @@ const userData = {
       id: 3
     },
     {
-      title: "Diego Almirón - Web personal en progreso - WordPress",
+      title: "Diego Almirón - Web personal - WordPress",
       link: "https://diegoalmiron.com.ar/",
       imgUrl: "diegoalmiron.png",
       id: 4
