@@ -31,7 +31,7 @@ const userData = {
     },
     {
       title: "Zapatops - E-commerce en progreso - WooCommerce",
-      link: "https://zapa-tops.com",
+      link: "https://zapatops.com.ar",
       imgUrl: "zapatops.png",
       id: 3
     },
